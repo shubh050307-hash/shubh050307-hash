@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 First Year IT Student at BVCOE | Full Stack Developer | Java DSA Enthusiast | AI/ML Explorer<br><br>I am passionate about building scalable web applications, solving problems using Data Structures & Algorithms in Java, and exploring Artificial Intelligence & Machine Learning.<br><br>🚀 I have worked on and deployed projects, gaining hands-on experience in development, deployment, and modern tech stacks.<br><br>💡 Tech Interests:<br>- Full Stack Development(MERN STACK)<br>- C++ & DSA<br>- AI/ML<br>- Open Source<br>- Problem Solving<br><br>🌱 Currently learning and improving every day through projects and consistent coding.
+👨‍💻 First Year IT Student at BVCOE | Full Stack Developer | C++ DSA Enthusiast | AI/ML Explorer<br><br>I am passionate about building scalable web applications, solving problems using Data Structures & Algorithms in Java, and exploring Artificial Intelligence & Machine Learning.<br><br>🚀 I have worked on and deployed projects, gaining hands-on experience in development, deployment, and modern tech stacks.<br><br>💡 Tech Interests:<br>- Full Stack Development(MERN STACK)<br>- C++ & DSA<br>- AI/ML<br>- Open Source<br>- Problem Solving<br><br>🌱 Currently learning and improving every day through projects and consistent coding.
 
 
 ## 🌐 Socials:
